@@ -1,2 +1,2 @@
 # Password Checker
-python password strenghth checker project
+python password strength checker project
